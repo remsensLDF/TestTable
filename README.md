@@ -1,5 +1,5 @@
 # TestTable
-| Name     | Character |
-| ---      | ---       |
-| Backtick | `         |
-| Pipe     | \|        |
+| Команда     | Значение блока данных | Описание |
+| ---         | ---                   |          |
+| Backtick    |                       |          |
+| Pipe        |                       |          |
